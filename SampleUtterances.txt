@@ -1,0 +1,293 @@
+getOverview more information about mumbai
+getOverview more details about mumbai
+getOverview give me more information about mumbai
+getOverview get me more information about mumbai
+getOverview provide me more information about mumbai
+getOverview Help me with the more information about mumbai
+getOverview May i know more information about mumbai
+getOverview can you please give me more information about mumbai
+getOverview can you please get me more information about mumbai
+getOverview can you please provide me more information about mumbai
+getOverview can you please Help me with the more information about mumbai
+getOverview can you give me more information about mumbai
+getOverview can you get me more information about mumbai
+getOverview can you provide me more information about mumbai
+getOverview can you Help me with the more information about mumbai
+getOverview give me more details about mumbai
+getOverview get me more details about mumbai
+getOverview provide me more details about mumbai
+getOverview Help me with the more details about mumbai
+getOverview May i know more details about mumbai
+getOverview can you please give me more details about mumbai
+getOverview can you please get me more details about mumbai
+getOverview can you please provide me more details about mumbai
+getOverview can you please Help me with the more details about mumbai
+getOverview can you give me more details about mumbai
+getOverview can you get me more details about mumbai
+getOverview can you provide me more details about mumbai
+getOverview can you Help me with the more details about mumbai
+getOverview what's it like in mumbai
+getOverview May i know what's it like in mumbai
+getOverview can you please tell me what's it like in mumbai
+getOverview tell me more about mumbai
+getOverview tell me facts about mumbai
+getOverview give me facts about mumbai
+getOverview get me facts about mumbai
+getOverview provide me facts about mumbai
+getOverview help me with facts about mumbai
+getOverview May i know the facts about mumbai
+getOverview can you please tell me facts about mumbai
+getOverview can you please give me facts about mumbai
+getOverview can you please get me facts about mumbai
+getOverview can you please provide me facts about mumbai
+getOverview can you please help me with facts about mumbai
+getOverview can you tell me facts about mumbai
+getOverview can you give me facts about mumbai
+getOverview can you get me facts about mumbai
+getOverview can you provide me facts about mumbai
+getOverview can you help me with facts about mumbai
+getOverview tell me some facts about mumbai
+getOverview give me some facts about mumbai
+getOverview get me some facts about mumbai
+getOverview provide me some facts about mumbai
+getOverview Help me with some facts about mumbai
+getOverview can you please tell me some facts about mumbai
+getOverview can you please give me some facts about mumbai
+getOverview can you please get me some facts about mumbai
+getOverview can you please provide me some facts about mumbai
+getOverview can you please help me with some facts about mumbai
+getOverview can you tell me some facts about mumbai
+getOverview can you give me some facts about mumbai
+getOverview can you get me some facts about mumbai
+getOverview can you provide me some facts about mumbai
+getOverview can you help me with some facts about mumbai
+getOverview tell me some more facts about mumbai
+getOverview give me some more facts about mumbai
+getOverview get me some more facts about mumbai
+getOverview provide me some more facts about mumbai
+getOverview Help me with some more facts about mumbai
+getOverview can you please tell me some more  facts about mumbai
+getOverview can you please give me some more facts about mumbai
+getOverview can you please get me some more facts about mumbai
+getOverview can you please provide me some more facts about mumbai
+getOverview can you please help me with some more facts about mumbai
+getOverview can you tell me some more facts about mumbai
+getOverview can you give me some more facts about mumbai
+getOverview can you get me some more facts about mumbai
+getOverview can you provide me some  more facts about mumbai
+getOverview can you help me with some more facts about mumbai
+getOverview facts about mumbai
+getOverview overview of mumbai
+getOverview get me the overview of mumbai
+getOverview can you get me the overview of mumbai
+getOverview can you please get me the overview of mumbai
+getOverview can i get the overview of mumbai
+getOverview can i please get the overview of mumbai
+getOverview mumbai facts
+getOverview mumbai overview
+
+
+getTopFiveIntent May i know the top five things
+getTopFiveIntent tell me the top five things
+getTopFiveIntent give me the top five things
+getTopFiveIntent get me the top five things
+getTopFiveIntent what are the top five things
+getTopFiveIntent Help me with the top five things
+getTopFiveIntent provide me with the top five things
+getTopFiveIntent can you please tell me the top five things
+getTopFiveIntent can you please give me the top five things
+getTopFiveIntent can you please get me the top five things
+getTopFiveIntent can you please Help me with the top five things
+getTopFiveIntent can you please provide me with the top five things
+getTopFiveIntent can you tell me the top five things
+getTopFiveIntent can you give me the top five things
+getTopFiveIntent can you get me the top five things
+getTopFiveIntent can you Help me with the top five things
+getTopFiveIntent can you provide me with the top five things
+getTopFiveIntent May i know the top five things to do in mumbai
+getTopFiveIntent tell me the top five things to do in mumbai
+getTopFiveIntent give me the top five things to do in mumbai
+getTopFiveIntent get me the top five things to do in mumbai
+getTopFiveIntent what are the top five things to do in mumbai
+getTopFiveIntent provide me with the top five things to do in mumbai
+getTopFiveIntent Help me with the top five things to do in mumbai
+getTopFiveIntent can you please tell me the top five things to do in mumbai
+getTopFiveIntent can you please give me the top five things to do in mumbai
+getTopFiveIntent can you please get me the top five things to do in mumbai
+getTopFiveIntent can you please provide me with the top five things to do in mumbai
+getTopFiveIntent can you please Help me with the top five things to do in mumbai
+getTopFiveIntent can you tell me the top five things to do in mumbai
+getTopFiveIntent can you give me the top five things to do in mumbai
+getTopFiveIntent can you get me the top five things to do in mumbai
+getTopFiveIntent can you provide me with the top five things to do in mumbai
+getTopFiveIntent can you help me with the top five things to do in mumbai
+getTopFiveIntent top five things to do
+getTopFiveIntent tell me top five things to do
+getTopFiveIntent give me the top five to do
+getTopFiveIntent get me the top five to do
+getTopFiveIntent provide me with the top five to do
+getTopFiveIntent Help me with the top five to do
+getTopFiveIntent can you please tell me the top five things to do
+getTopFiveIntent can you please give me the top five things to do
+getTopFiveIntent can you please get me the top five things to do
+getTopFiveIntent can you please provide me with the top five things to do
+getTopFiveIntent can you please Help me with the top five things to do
+getTopFiveIntent can you tell me the top five things to do
+getTopFiveIntent can you give me the top five things to do
+getTopFiveIntent can you get me the top five things to do
+getTopFiveIntent can you provide me with the top five things to do
+getTopFiveIntent can you help me with the top five things to do
+getTopFiveIntent the top five
+getTopFiveIntent May i know the top five
+getTopFiveIntent tell me the top five
+getTopFiveIntent give me the top five
+getTopFiveIntent get me the top five
+getTopFiveIntent provide me with the top five
+getTopFiveIntent Help me with the top five
+getTopFiveIntent can you please tell me the top five
+getTopFiveIntent can you please give me the top five
+getTopFiveIntent can you please get me the top five
+getTopFiveIntent can you please provide me with the top five
+getTopFiveIntent can you please Help me with the top five
+getTopFiveIntent can you tell me the top five
+getTopFiveIntent can you give me the top five
+getTopFiveIntent can you get me the top five
+getTopFiveIntent can you provide me with the top five
+getTopFiveIntent can you help me with the top five
+getTopFiveIntent top five
+getTopFiveIntent the top five things to do
+
+
+
+getAttractionIntent tell me a good attraction
+getAttractionIntent May i know a good attraction
+getAttractionIntent give me a good attraction
+getAttractionIntent get me a good attraction
+getAttractionIntent provide me a good attraction
+getAttractionIntent Help me with a good attraction
+getAttractionIntent can you please tell me a good attraction
+getAttractionIntent can you please give me a good attraction
+getAttractionIntent can you please get me a good attraction
+getAttractionIntent can you please provide me a good attraction
+getAttractionIntent can you please help me with a good attraction
+getAttractionIntent can you tell me a good attraction
+getAttractionIntent can you give me a good attraction
+getAttractionIntent can you get me a good attraction
+getAttractionIntent can you provide me a good attraction
+getAttractionIntent can you help me with a good attraction
+getAttractionIntent tell me a good attraction to visit in mumbai
+getAttractionIntent May i know a good attraction to visit in mumbai
+getAttractionIntent give me a good attraction to visit in mumbai
+getAttractionIntent get me a good attraction to visit in mumbai
+getAttractionIntent provide me a good attraction to visit in mumbai
+getAttractionIntent Help me with a good attraction to visit in mumbai
+getAttractionIntent can you please tell me a good attraction to visit in mumbai
+getAttractionIntent can you please give me a good attraction to visit in mumbai
+getAttractionIntent can you please get me a good attraction to visit in mumbai
+getAttractionIntent can you please provide me a good attraction to visit in mumbai
+getAttractionIntent can you please help me with a good attraction to visit in mumbai
+getAttractionIntent can you tell me a good attraction to visit in mumbai
+getAttractionIntent can you give me a good attraction to visit in mumbai
+getAttractionIntent can you get me a good attraction to visit in mumbai
+getAttractionIntent can you provide me a good attraction to visit in mumbai
+getAttractionIntent can you help me with a good attraction to visit in mumbai
+getAttractionIntent tell me a good attraction to witness in mumbai
+getAttractionIntent give me a good attraction to witness in mumbai
+getAttractionIntent get me a good attraction to witness in mumbai
+getAttractionIntent provide me a good attraction to witness in mumbai
+getAttractionIntent Help me with a good attraction to witness in mumbai
+getAttractionIntent can you please tell me a good attraction to witness in mumbai
+getAttractionIntent can you please give me a good attraction to witness in mumbai
+getAttractionIntent can you please get me a good attraction to witness in mumbai
+getAttractionIntent can you please provide me a good attraction to witness in mumbai
+getAttractionIntent can you please help me with a good attraction to witness in mumbai
+getAttractionIntent can you tell me a good attraction to witness in mumbai
+getAttractionIntent can you give me a good attraction to witness in mumbai
+getAttractionIntent can you get me a good attraction to witness in mumbai
+getAttractionIntent can you provide me a good attraction to witness in mumbai
+getAttractionIntent can you help me with a good attraction to witness in mumbai
+getAttractionIntent where should I go
+getAttractionIntent May i know where can I go
+getAttractionIntent where should I go in mumbai
+getAttractionIntent May i know where can I go in mumbai
+getAttractionIntent where should I visit
+getAttractionIntent where should I visit in mumbai
+getAttractionIntent May i know where should I visit
+getAttractionIntent May i know where to go in mumbai
+getAttractionIntent an attraction
+getAttractionIntent attractions
+getAttractionIntent May i know the attractions
+getAttractionIntent May i know the attractions in mumbai
+getAttractionIntent can you please tell me the attractions
+getAttractionIntent can you please tell me the attractions in mumbai
+getAttractionIntent what are the attractions
+
+
+getMoreInfoIntent tell me more about number {attraction}
+getMoreInfoIntent get me more information about number {attraction}
+getMoreInfoIntent give me more information about number {attraction}
+getMoreInfoIntent Help me with more information about number {attraction}
+getMoreInfoIntent provide me with the more information about number {attraction}
+getMoreInfoIntent please tell me more about number {attraction}
+getMoreInfoIntent please get me more information about number {attraction}
+getMoreInfoIntent please give me more information about number {attraction}
+getMoreInfoIntent please Help me with more information about number {attraction}
+getMoreInfoIntent please provide me with the more information about number {attraction}
+getMoreInfoIntent can you please tell me more about number {attraction}
+getMoreInfoIntent can i get me more information about number {attraction}
+getMoreInfoIntent can you please give me more information about number {attraction}
+getMoreInfoIntent can you please Help me with more information about number {attraction}
+getMoreInfoIntent can you please provide me with the more information about number {attraction}
+getMoreInfoIntent what is number {attraction}
+getMoreInfoIntent more about number {attraction}
+getMoreInfoIntent can i get more information about number {attraction}
+getMoreInfoIntent number {attraction}
+getMoreInfoIntent {attraction}
+
+
+getNewsIntent tell me the local news
+getNewsIntent what is the local news
+getNewsIntent get me the local news
+getNewsIntent provide me the local news
+getNewsIntent help me with the local news
+getNewsIntent tell me the local news about mumbai
+getNewsIntent what is the local news about mumbai
+getNewsIntent get me the local news about mumbai
+getNewsIntent provide me the local news about mumbai
+getNewsIntent help me with the local news about mumbai
+getNewsIntent tell me the latest news
+getNewsIntent get me the latest news
+getNewsIntent provide me the latest news
+getNewsIntent help me with the latest news
+getNewsIntent tell me the latest news about mumbai
+getNewsIntent what is the latest news about mumbai
+getNewsIntent get me the latest news about mumbai
+getNewsIntent provide me the latest news about mumbai
+getNewsIntent help me with the latest news about mumbai
+getNewsIntent can you please tell me the latest news about mumbai
+getNewsIntent can you please get me the latest news about mumbai
+getNewsIntent can you please provide me the latest news about mumbai
+getNewsIntent can you please help me with the latest news about mumbai
+getNewsIntent May I know the local news
+getNewsIntent May I know the local news about mumbai
+getNewsIntent May I know the latest news
+getNewsIntent May I know the latest news about mumbai
+getNewsIntent what is the latest news
+getNewsIntent the local news
+getNewsIntent the local news about mumbai
+getNewsIntent the latest news
+getNewsIntent the latest news about mumbai
+getNewsIntent the news
+getNewsIntent the news about mumbai
+getNewsIntent news
+getNewsIntent news about mumbai
+getNewsIntent local news
+getNewsIntent local news about mumbai
+getNewsIntent latest news
+getNewsIntent latest news about mumbai
+
+AMAZON.StopIntent stop
+
+AMAZON.StopIntent off
+
+AMAZON.StopIntent shut up

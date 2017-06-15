@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "intent": "getOverview"
+    },
+    {
+      "intent": "getTopFiveIntent"
+    },
+    {
+      "intent": "getAttractionIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "attraction",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "getMoreInfoIntent"
+    },
+    {
+      "intent": "getNewsIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    }
+  ]
+}
